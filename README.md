@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehringhaus23, I'm a second year computer science student
 - 👀 I’m interested in machine learning, data analytics, software development
-- 🌱 I’m currently learning Java, SQL, python
+- 🌱 I have experience in C/python. Currently learning Java, SQL, C++
 - 📫 How to reach me: zixu.luke.zhou@gmail.com
 
 <!---
